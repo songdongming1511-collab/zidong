@@ -1,0 +1,130 @@
+{
+  "ai-learning.html": {
+    "bytes": 19808,
+    "sha256": "4e83fa33ca438c6507636094ce841b734f9fdfc8077d8ec45199deeaf0d8138d"
+  },
+  "app.js": {
+    "bytes": 5128,
+    "sha256": "6861393516d7439c2290252ad6b893683d7eca90e3fb51210ef50f673d75bfb3"
+  },
+  "assets/mark.svg": {
+    "bytes": 176,
+    "sha256": "984f71877fb9689f23838eef6fefc1c6b143eee6d2f1a97e6496885cb655aeef"
+  },
+  "assets/portrait-placeholder.svg": {
+    "bytes": 1392,
+    "sha256": "51ee97623363b64d3cf639219ae74f69c7eec42f1637186fb6c9166a4a94b865"
+  },
+  "assets/portrait.png": {
+    "bytes": 566204,
+    "sha256": "2f4c6b12c9bb2c9420f2bd7c6867800d235f7cd1c7c5c8edcb2866461a5b9ce9"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_01.jpg": {
+    "bytes": 151811,
+    "sha256": "69adbd8a4a639c4d30552ce7718803c1c1394fcd76d016239af39eaf3f592c1a"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_02.jpg": {
+    "bytes": 181852,
+    "sha256": "99f47c636adae0e5cf34b677e91e0e8c9fd7034812d14dcb542e1eb7a4dcd5df"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_03.jpg": {
+    "bytes": 118567,
+    "sha256": "6ac61993ffad25ec6200a4bf710baa67819871d518a4bfb022bdb6d497fd86f4"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_04.jpg": {
+    "bytes": 209995,
+    "sha256": "5625a375db10d6a400c2011df39b5b611529fafef2d48f62f616611e8ca058b0"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_05.jpg": {
+    "bytes": 234992,
+    "sha256": "6988cc9a3cdd621ad68b1c1ef8afa15d6c29a9a453fc9a81b872360d24d135a8"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_06.jpg": {
+    "bytes": 238501,
+    "sha256": "3a3a1bb208ac9d5585c124a95f0454c98da7bc80de32cf4b57e54ac8f8f7ab6a"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_07.jpg": {
+    "bytes": 200982,
+    "sha256": "3467faf44934728f0f68c51a0b29f6ea1a12e23cc0564192099189e7c46efd64"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_08.jpg": {
+    "bytes": 165538,
+    "sha256": "e1178bd37c5d76a15b219c014c46849e6d822dfc6e5e28f4b1118f92d208f009"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_09.jpg": {
+    "bytes": 134929,
+    "sha256": "fcf91bd6ddc467648e3c6205f35a77ab0967a951cbab28114b5139c152f3633e"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_10.jpg": {
+    "bytes": 109997,
+    "sha256": "938549cfb21436d0ec09d6b6ccb26291f2e9d539766eb009dd338d9622834c25"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_11.jpg": {
+    "bytes": 99041,
+    "sha256": "4565f25e5411fea6495a61576fd28032429686b0bddd555d5806e953e7c79e5f"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_12.jpg": {
+    "bytes": 188190,
+    "sha256": "c31fea9e2f785f661d948f7825213370fa5f3f407e363ea3fbce11d39853e826"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_13.jpg": {
+    "bytes": 159943,
+    "sha256": "a94731e29b97bd55fe1cbd5e8e90b00e231d7489107eaa3227e64c92da7d7c50"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_14.jpg": {
+    "bytes": 167465,
+    "sha256": "a536528ee2be740006fb543f9e52247e4de65b7633535161c86168528ca4dbbf"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_15.jpg": {
+    "bytes": 164537,
+    "sha256": "dc2fcb9a17b75cab95dbcdaba54bb92beb8e02542b73d271866341649a2fbfbb"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_16.jpg": {
+    "bytes": 124443,
+    "sha256": "5baa4761f17210f234a1a4bd7aa85840a6575fbebfbb016ef7a298266ee9d99d"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_17.jpg": {
+    "bytes": 137327,
+    "sha256": "8c4df1403dd25623453efd5aa8538d510e9f025fe542c9251761fc1470a653fb"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_18.jpg": {
+    "bytes": 123355,
+    "sha256": "7d322dc711eb7feab0186b81ad6eff063e12b6b7686d3c263c3851360b7721b9"
+  },
+  "assets/projects/ai-learning/AI教学实训平台_19.jpg": {
+    "bytes": 204485,
+    "sha256": "03ef99a04ba6ec2d22c79bc1abdf94769678e035a0b774025171da8da85a1f8e"
+  },
+  "assets/resume-01.jpg": {
+    "bytes": 723000,
+    "sha256": "7448b2dbe439b4723af138583b29cb1302de53ab11f778c361c013c9f230d99a"
+  },
+  "content.js": {
+    "bytes": 1045,
+    "sha256": "9466a71a9a653c171a3f72c3fc894e17c32b5b66b72348d8aa6a9c00a1b1be75"
+  },
+  "index.html": {
+    "bytes": 10762,
+    "sha256": "4d866ad52aa1a6b76ae6fc495bfcf5c0faa5f6769242f345c9636f4fab189e6c"
+  },
+  "project.css": {
+    "bytes": 6670,
+    "sha256": "e7328da124e90159a5bca1483527add71117f5b233520c4d4e6b4acaa8b5bcf7"
+  },
+  "project.js": {
+    "bytes": 1984,
+    "sha256": "1f1d871b1665df2aafe7c2f7228429d3ac7c3c81a70d8d13267ea371da9441ce"
+  },
+  "resume.html": {
+    "bytes": 4310,
+    "sha256": "12d817854f5b205a5e31025e00c19ea44fa0244ac8d3d99d80034ec6c8f056f0"
+  },
+  "styles.css": {
+    "bytes": 32339,
+    "sha256": "099c2b47a2fc1189a0fcce6c9206ec253b486a1cddc9e9de1b61a59ba05bbf17"
+  },
+  "部署说明.txt": {
+    "bytes": 2146,
+    "sha256": "c0fc7cae2082879628a4794c011c441a784feb95c2a94b0e079afa48f79ed4d5"
+  }
+}
